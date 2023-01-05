@@ -6,10 +6,10 @@
 			<div class="typo content m-margin-top-large" v-viewer v-html="about.content"></div>
 		</div>
 		<!--评论-->
-		<!-- <div class="ui bottom teal attached segment threaded comments">
+		<div class="ui bottom teal attached segment threaded comments">
 			<CommentList :page="1" :blogId="null" v-if="about.commentEnabled==='true'"/>
 			<h3 class="ui header" v-else>评论已关闭</h3>
-		</div> -->
+		</div>
 	</div>
 </template>
 

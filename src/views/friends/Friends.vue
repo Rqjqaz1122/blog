@@ -22,10 +22,10 @@
 			<div class="typo content" v-viewer v-html="info.content"></div>
 		</div>
 		<!--评论-->
-		<!-- <div class="ui bottom teal attached segment threaded comments">
+		<div class="ui bottom teal attached segment threaded comments">
 			<CommentList :page="2" :blogId="null" v-if="info.commentEnabled"/>
 			<h3 class="ui header" v-else>评论已关闭</h3>
-		</div> -->
+		</div>
 	</div>
 </template>
 
