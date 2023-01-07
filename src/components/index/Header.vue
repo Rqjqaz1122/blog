@@ -6,7 +6,7 @@
 			<div class="bg2" style="background-image: url('https://rqj666.oss-cn-hangzhou.aliyuncs.com/%E8%83%8C%E6%99%AF/6913421d0a28b8607d40bfb0534621b4.jpeg');"></div>
 			<div class="bg3" style="background-image: url('https://rqj666.oss-cn-hangzhou.aliyuncs.com/%E8%83%8C%E6%99%AF/b3123a496b0a5686477b13232c6c49c4.jpeg');" v-show="loaded"></div>
 		</div>
-		<div class="text-malfunction" data-word="Dream blog's">
+		<div class="text-malfunction" data-word="Ronny blog's">
 			<div class="line"></div>
 		</div>
 		<div class="wrapper">
