@@ -45,7 +45,7 @@
 			</div>
 			<el-form-item prop="nickname">
 				<el-popover ref="nicknamePopover" placement="bottom" trigger="focus" content="输入QQ号将自动拉取昵称和头像"></el-popover>
-				<el-input v-model="commentForm.nickname" placeholder="昵称（必填）" :validate-event="false" v-popover:nicknamePopover>
+				<el-input v-model="commentForm.nickname" placeholder="QQ（必填）" :validate-event="false" v-popover:nicknamePopover>
 					<i slot="prefix" class="el-input__icon el-icon-user"></i>
 				</el-input>
 			</el-form-item>
