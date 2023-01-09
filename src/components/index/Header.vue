@@ -1,10 +1,10 @@
 <template>
 	<header ref="header">
 		<div class="view">
-			<img ref="imgbg1" src="/img/bg/bgb" style="display: none;">
+			<img ref="imgbg1" src="/img/bg/dt.jpg" style="display: none;">
 			<div class="bg1" style="background-image: url('/img/bg/bg1.jpeg');"></div>
 			<div class="bg2" style="background-image: url('/img/bg/bg2.jpeg');"></div>
-			<div class="bg3" style="background-image: url('/img/bg/bg3.jpeg');" v-show="loaded"></div>
+			<div class="bg3" style="background-image: url('/img/bg/dmbj.jpeg');" v-show="loaded"></div>
 		</div>
 		<div class="text-malfunction" data-word="Ronny blog's">
 			<div class="line"></div>

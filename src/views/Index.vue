@@ -132,7 +132,7 @@
 		display: flex;
 		min-height: 100vh; /* 没有元素时，也把页面撑开至100% */
 		flex-direction: column;
-		background-image: url(/img/bg/bg1.jpg)!important;
+		background-image: url(/img/bg/bg.jpg)!important;
 		background-repeat: repeat-x;
 		background-attachment: fixed;
 		background-size: cover;
