@@ -1,78 +1,102 @@
 [
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/1.png",
+    "src": "/img/paopao/1.png",
     "name": "@[p_滑稽]",
     "reg": "@\\[p_滑稽\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/10.png",
+    "src": "/img/paopao/2.png",
     "name": "@[p_不高兴]",
     "reg": "@\\[p_不高兴\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/11.png",
+    "src": "/img/paopao/3.png",
     "name": "@[p_乖]",
     "reg": "@\\[p_乖\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/13.png",
+    "src": "/img/paopao/4.png",
     "name": "@[p_冷]",
     "reg": "@\\[p_冷\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/12.png",
+    "src": "/img/paopao/5.png",
+    "name": "@[p_勉强]",
+    "reg": "@\\[p_勉强\\]"
+  },
+  {
+    "src": "/img/paopao/6.png",
+    "name": "@[p_吐]",
+    "reg": "@\\[p_吐\\]"
+  },
+  {
+    "src": "/img/paopao/7.png",
+    "name": "@[p_吐舌]",
+    "reg": "@\\[p_吐舌\\]"
+  },
+  {
+    "src": "/img/paopao/8.png",
+    "name": "@[p_呵呵]",
+    "reg": "@\\[p_呵呵\\]"
+  },
+  {
+    "src": "/img/paopao/9.png",
+    "name": "@[p_呼]",
+    "reg": "@\\[p_呼\\]"
+  },
+  {
+    "src": "/img/paopao/10.png",
+    "name": "@[p_咦]",
+    "reg": "@\\[p_咦\\]"
+  },
+  {
+    "src": "/img/paopao/11.png",
+    "name": "@[p_哈哈]",
+    "reg": "@\\[p_哈哈\\]"
+  },
+  {
+    "src": "/img/paopao/12.png",
     "name": "@[p_啊]",
     "reg": "@\\[p_啊\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/17.png",
-    "name": "@[p_脸红]",
-    "reg": "@\\[p_脸红\\]"
+    "src": "/img/paopao/13.png",
+    "name": "@[p_喷]",
+    "reg": "@\\[p_喷\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/14.png",
+    "src": "/img/paopao/14.png",
     "name": "@[p_太开心]",
     "reg": "@\\[p_太开心\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/15.png",
+    "src": "/img/paopao/15.png",
     "name": "@[p_委屈]",
     "reg": "@\\[p_委屈\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/16.png",
+    "src": "/img/paopao/16.png",
     "name": "@[p_开心]",
     "reg": "@\\[p_开心\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/18.png",
-    "name": "@[p_亲亲]",
-    "reg": "@\\[p_亲亲\\]"
+    "src": "/img/paopao/17.png",
+    "name": "@[p_怒]",
+    "reg": "@\\[p_怒\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/2.png",
-    "name": "@[p_啊]",
-    "reg": "@\\[p_啊\\]"
+    "src": "/img/paopao/18.png",
+    "name": "@[p_惊哭]",
+    "reg": "@\\[p_惊哭\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/2.png",
-    "name": "@[p_困]",
-    "reg": "@\\[p_困\\]"
+    "src": "/img/paopao/19.png",
+    "name": "@[p_惊讶]",
+    "reg": "@\\[p_惊讶\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/19.png",
+    "src": "/img/paopao/20.png",
     "name": "@[p_汗]",
     "reg": "@\\[p_汗\\]"
-  },
-  {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/3.png",
-    "name": "@[p_微笑]",
-    "reg": "@\\[p_微笑\\]"
-  },
-  {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/4.png",
-    "name": "@[p_鄙视]",
-    "reg": "@\\[p_鄙视\\]"
   }
-  
 ]

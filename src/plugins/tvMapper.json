@@ -1,67 +1,147 @@
 [
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/1.png",
+    "src": "/img/tv/1.png",
     "name": "@[tv_白眼]",
     "reg": "@\\[tv_白眼\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/10.png",
+    "src": "/img/tv/2.png",
     "name": "@[tv_doge]",
     "reg": "@\\[tv_doge\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/11.png",
+    "src": "/img/tv/3.png",
+    "name": "@[tv_坏笑]",
+    "reg": "@\\[tv_坏笑\\]"
+  },
+  {
+    "src": "/img/tv/4.png",
+    "name": "@[tv_难过]",
+    "reg": "@\\[tv_难过\\]"
+  },
+  {
+    "src": "/img/tv/5.png",
+    "name": "@[tv_生气]",
+    "reg": "@\\[tv_生气\\]"
+  },
+  {
+    "src": "/img/tv/6.png",
+    "name": "@[tv_委屈]",
+    "reg": "@\\[tv_委屈\\]"
+  },
+  {
+    "src": "/img/tv/7.png",
+    "name": "@[tv_斜眼笑]",
+    "reg": "@\\[tv_斜眼笑\\]"
+  },
+  {
+    "src": "/img/tv/8.png",
+    "name": "@[tv_呆]",
+    "reg": "@\\[tv_呆\\]"
+  },
+  {
+    "src": "/img/tv/9.png",
+    "name": "@[tv_发怒]",
+    "reg": "@\\[tv_发怒\\]"
+  },
+  {
+    "src": "/img/tv/10.png",
+    "name": "@[tv_惊吓]",
+    "reg": "@\\[tv_惊吓\\]"
+  },
+  {
+    "src": "/img/tv/11.png",
     "name": "@[tv_呕吐]",
     "reg": "@\\[tv_呕吐\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/12.png",
+    "src": "/img/tv/12.png",
     "name": "@[tv_思考]",
     "reg": "@\\[tv_思考\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/13.png",
+    "src": "/img/tv/13.png",
     "name": "@[tv_微笑]",
     "reg": "@\\[tv_微笑\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/14.png",
+    "src": "/img/tv/14.png",
     "name": "@[tv_疑问]",
     "reg": "@\\[tv_疑问\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/15.png",
+    "src": "/img/tv/15.png",
     "name": "@[tv_大哭]",
     "reg": "@\\[tv_大哭\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/15.png",
+    "src": "/img/tv/16.png",
     "name": "@[tv_鼓掌]",
     "reg": "@\\[tv_鼓掌\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/17.png",
+    "src": "/img/tv/17.png",
     "name": "@[tv_抠鼻]",
     "reg": "@\\[tv_抠鼻\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/18.png",
+    "src": "/img/tv/18.png",
     "name": "@[tv_亲亲]",
     "reg": "@\\[tv_亲亲\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/19.png",
+    "src": "/img/tv/19.png",
     "name": "@[tv_调皮]",
     "reg": "@\\[tv_调皮\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/2.png",
-    "name": "@[tv_狗头]",
-    "reg": "@\\[tv_狗头\\]"
+    "src": "/img/tv/20.png",
+    "name": "@[tv_笑哭]",
+    "reg": "@\\[tv_笑哭\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/20.png",
-    "name": "@[tv_哭笑]",
-    "reg": "@\\[tv_哭笑\\]"
+    "src": "/img/tv/21.png",
+    "name": "@[tv_晕]",
+    "reg": "@\\[tv_晕\\]"
+  },
+  {
+    "src": "/img/tv/22.png",
+    "name": "@[tv_点赞]",
+    "reg": "@\\[tv_点赞\\]"
+  },
+  {
+    "src": "/img/tv/23.png",
+    "name": "@[tv_害羞]",
+    "reg": "@\\[tv_害羞\\]"
+  },
+  {
+    "src": "/img/tv/24.png",
+    "name": "@[tv_睡着]",
+    "reg": "@\\[tv_睡着\\]"
+  },
+  {
+    "src": "/img/tv/25.png",
+    "name": "@[tv_色]",
+    "reg": "@\\[tv_色\\]"
+  },
+  {
+    "src": "/img/tv/26.png",
+    "name": "@[tv_吐血]",
+    "reg": "@\\[tv_吐血\\]"
+  },
+  {
+    "src": "/img/tv/27.png",
+    "name": "@[tv_无奈]",
+    "reg": "@\\[tv_无奈\\]"
+  },
+  {
+    "src": "/img/tv/28.png",
+    "name": "@[tv_再见]",
+    "reg": "@\\[tv_再见\\]"
+  },
+  {
+    "src": "/img/tv/29.png",
+    "name": "@[tv_流汗]",
+    "reg": "@\\[tv_流汗\\]"
   }
 ]

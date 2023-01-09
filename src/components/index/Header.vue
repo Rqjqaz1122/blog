@@ -1,10 +1,10 @@
 <template>
 	<header ref="header">
 		<div class="view">
-			<img ref="imgbg1" src="https://cdn.naccl.top/blog/img/bg1.jpg" style="display: none;">
-			<div class="bg1" style="background-image: url('https://www.oss.wrqj.xyz/%E8%83%8C%E6%99%AF/588405379885526b520c071ae4c569e7.jpeg');"></div>
-			<div class="bg2" style="background-image: url('https://www.oss.wrqj.xyz/%E8%83%8C%E6%99%AF/6913421d0a28b8607d40bfb0534621b4.jpeg');"></div>
-			<div class="bg3" style="background-image: url('https://www.oss.wrqj.xyz/%E8%83%8C%E6%99%AF/b3123a496b0a5686477b13232c6c49c4.jpeg');" v-show="loaded"></div>
+			<img ref="imgbg1" src="/img/bg/bgb" style="display: none;">
+			<div class="bg1" style="background-image: url('/img/bg/bg1.jpeg');"></div>
+			<div class="bg2" style="background-image: url('/img/bg/bg2.jpeg');"></div>
+			<div class="bg3" style="background-image: url('/img/bg/bg3.jpeg');" v-show="loaded"></div>
 		</div>
 		<div class="text-malfunction" data-word="Ronny blog's">
 			<div class="line"></div>
@@ -12,8 +12,8 @@
 		<div class="wrapper">
 			<i class="ali-iconfont icon-down" @click="scrollToMain"></i>
 		</div>
-		<div class="wave1" style="background: url('https://cdn.naccl.top/blog/img/wave1.png') repeat-x;"></div>
-		<div class="wave2" style="background: url('https://cdn.naccl.top/blog/img/wave2.png') repeat-x;"></div>
+		<div class="wave1" style="background: url('/img/bg/wave1.png') repeat-x;"></div>
+		<div class="wave2" style="background: url('/img/bg/wave2.png') repeat-x;"></div>
 	</header>
 </template>
 

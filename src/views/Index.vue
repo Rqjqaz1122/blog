@@ -132,7 +132,7 @@
 		display: flex;
 		min-height: 100vh; /* 没有元素时，也把页面撑开至100% */
 		flex-direction: column;
-		background-image: url(https://www.oss.wrqj.xyz/%E8%83%8C%E6%99%AF/29b509cf1cb7e67e30e6d69d21f1cfc6.jpg)!important;
+		background-image: url(/img/bg/bg1.jpg)!important;
 		background-repeat: repeat-x;
 		background-attachment: fixed;
 		background-size: cover;

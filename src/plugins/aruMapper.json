@@ -1,78 +1,152 @@
 [
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/6.png",
-    "name": "@[aru_吐]",
-    "reg": "@\\[aru_吐\\]"
+    "src": "/img/aru/1.png",
+    "name": "@[aru_高兴]",
+    "reg": "@\\[aru_高兴\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/6.png",
-    "name": "@[aru_吐舌]",
-    "reg": "@\\[aru_吐舌\\]"
+    "src": "/img/aru/2.png",
+    "name": "@[aru_皱眉]",
+    "reg": "@\\[aru_皱眉\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/8.png",
-    "name": "@[aru_微笑]",
-    "reg": "@\\[aru_微笑\\]"
+    "src": "/img/aru/3.png",
+    "name": "@[aru_阴笑]",
+    "reg": "@\\[aru_阴笑\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/11.png",
+    "src": "/img/aru/4.png",
+    "name": "@[aru_鄙视]",
+    "reg": "@\\[aru_鄙视\\]"
+  },
+  {
+    "src": "/img/aru/5.png",
+    "name": "@[aru_邪恶]",
+    "reg": "@\\[aru_邪恶\\]"
+  },
+  {
+    "src": "/img/aru/6.png",
     "name": "@[aru_大囧]",
     "reg": "@\\[aru_大囧\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/16.png",
+    "src": "/img/aru/7.png",
+    "name": "@[aru_惊喜]",
+    "reg": "@\\[aru_惊喜\\]"
+  },
+  {
+    "src": "/img/aru/8.png",
     "name": "@[aru_小眼睛]",
     "reg": "@\\[aru_小眼睛\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/10.png",
+    "src": "/img/aru/9.png",
+    "name": "@[aru_小怒]",
+    "reg": "@\\[aru_小怒\\]"
+  },
+  {
+    "src": "/img/aru/10.png",
     "name": "@[aru_无语]",
     "reg": "@\\[aru_无语\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/11.png",
+    "src": "/img/aru/11.png",
     "name": "@[aru_傻笑]",
     "reg": "@\\[aru_傻笑\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/14.png",
+    "src": "/img/aru/12.png",
     "name": "@[aru_期待]",
     "reg": "@\\[aru_期待\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/13.png",
-    "name": "@[aru_吐口水]",
-    "reg": "@\\[aru_吐口水\\]"
+    "src": "/img/aru/13.png",
+    "name": "@[aru_得逞]",
+    "reg": "@\\[aru_得逞\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/15.png",
-    "name": "@[aru_委屈]",
-    "reg": "@\\[aru_委屈\\]"
+    "src": "/img/aru/14.png",
+    "name": "@[aru_呲牙]",
+    "reg": "@\\[aru_呲牙\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/20.png",
+    "src": "/img/aru/15.png",
+    "name": "@[aru_喜极而泣]",
+    "reg": "@\\[aru_喜极而泣\\]"
+  },
+  {
+    "src": "/img/aru/16.png",
+    "name": "@[aru_晕死]",
+    "reg": "@\\[aru_晕死\\]"
+  },
+  {
+    "src": "/img/aru/17.png",
+    "name": "@[aru_脸红]",
+    "reg": "@\\[aru_脸红\\]"
+  },
+  {
+    "src": "/img/aru/18.png",
+    "name": "@[aru_亲亲]",
+    "reg": "@\\[aru_亲亲\\]"
+  },
+  {
+    "src": "/img/aru/19.png",
+    "name": "@[aru_狂汗]",
+    "reg": "@\\[aru_狂汗\\]"
+  },
+  {
+    "src": "/img/aru/20.png",
     "name": "@[aru_困]",
     "reg": "@\\[aru_困\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/2.png",
+    "src": "/img/aru/21.png",
+    "name": "@[aru_饥饿]",
+    "reg": "@\\[aru_饥饿\\]"
+  },
+  {
+    "src": "/img/aru/22.png",
+    "name": "@[aru_得意]",
+    "reg": "@\\[aru_得意\\]"
+  },
+  {
+    "src": "/img/aru/23.png",
+    "name": "@[aru_抠鼻]",
+    "reg": "@\\[aru_抠鼻\\]"
+  },
+  {
+    "src": "/img/aru/24.png",
+    "name": "@[aru_抽烟]",
+    "reg": "@\\[aru_抽烟\\]"
+  },
+  {
+    "src": "/img/aru/25.png",
     "name": "@[aru_内伤]",
     "reg": "@\\[aru_内伤\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/18.png",
-    "name": "@[aru_大哭]",
-    "reg": "@\\[aru_大哭\\]"
+    "src": "/img/aru/26.png",
+    "name": "@[aru_口水]",
+    "reg": "@\\[aru_口水\\]"
   },
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/19.png",
-    "name": "@[aru_惊讶]",
-    "reg": "@\\[aru_惊讶\\]"
+    "src": "/img/aru/27.png",
+    "name": "@[aru_吐]",
+    "reg": "@\\[aru_吐\\]"
   },
-  
   {
-    "src": "https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/17.png",
-    "name": "@[aru_愤怒]",
-    "reg": "@\\[aru_愤怒\\]"
+    "src": "/img/aru/28.png",
+    "name": "@[aru_流鼻涕]",
+    "reg": "@\\[aru_流鼻涕\\]"
+  },
+  {
+    "src": "/img/aru/29.png",
+    "name": "@[aru_绷带]",
+    "reg": "@\\[aru_绷带\\]"
+  },
+  {
+    "src": "/img/aru/30.png",
+    "name": "@[aru_吐舌]",
+    "reg": "@\\[aru_吐舌\\]"
   }
 ]

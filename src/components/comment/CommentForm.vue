@@ -9,7 +9,7 @@
 			<el-input :class="'textarea'" type="textarea" :rows="5" v-model="commentForm.content" placeholder="评论千万条，友善第一条"
 			          maxlength="250" show-word-limit :validate-event="false"></el-input>
 			<div class="el-form-item el-form-item--small emoji">
-				<img src="https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/1.png" @click="showEmojiBox">
+				<img src="/img/aru/1.png" @click="showEmojiBox">
 				<div class="mask" v-show="emojiShow" @click="hideEmojiBox"></div>
 				<div class="emoji-box" v-show="emojiShow">
 					<div class="emoji-title">
@@ -32,13 +32,13 @@
 					</div>
 					<div class="emoji-tabs">
 						<a class="tab-link" :class="{'on':activeEmojiTab===0}" @click="activeEmojiTab=0">
-							<img src="https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E5%B0%8F%E7%94%B5%E8%A7%86/10.png">
+							<img src="/img/tv/1.png">
 						</a>
 						<a class="tab-link" :class="{'on':activeEmojiTab===1}" @click="activeEmojiTab=1">
-							<img src="https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E9%98%BF%E9%B2%81/8.png">
+							<img src="/img/aru/1.png">
 						</a>
 						<a class="tab-link" :class="{'on':activeEmojiTab===2}" @click="activeEmojiTab=2">
-							<img src="https://www.oss.wrqj.xyz/%E8%A1%A8%E6%83%85%E5%8C%85/%E6%B3%A1%E6%B3%A1/1.png">
+							<img src="/img/paopao/1.png">
 						</a>
 					</div>
 				</div>
